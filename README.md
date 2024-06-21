@@ -48,6 +48,16 @@ Este projeto é um aplicativo Java que consulta informações sobre CNPJs utiliz
 3. Clique no botão "Consultar".
 4. Os resultados da consulta serão exibidos na área de texto.
 
+## Capturas de Tela
+
+### Tela Principal
+
+![Tela Principal](https://github.com/CodeYurii/ConsultaCnpj/blob/main/ConsultaCnpj/imagens/tela_principal.png)
+
+### Resultado da Consulta
+
+![Resultado da Consulta](https://github.com/CodeYurii/ConsultaCnpj/blob/main/ConsultaCnpj/imagens/resultado_consulta.png)
+
 ## Estrutura do Projeto
 
 ```plaintex
@@ -58,6 +68,10 @@ consulta-cnpj/
 │           └── cnpj/
 │               ├── CnpjConsulta.java
 │               └── Principal.java
+├── imagens/
+│   ├── tela_principal.png
+│   └── resultado_consulta.png
 ├── README.md
 └── pom.xml (opcional, se você estiver usando o Maven)
+
 
