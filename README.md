@@ -12,7 +12,6 @@ Este projeto é um aplicativo Java que consulta informações sobre CNPJs utiliz
 
 - Java 8 ou superior
 - Biblioteca `Gson` para manipulação de JSON
-- Biblioteca `iText` para exportação de PDF
 
 ## Configuração do Projeto
 
@@ -51,7 +50,7 @@ Este projeto é um aplicativo Java que consulta informações sobre CNPJs utiliz
 
 ## Estrutura do Projeto
 
-```plaintext
+```plaintex
 consulta-cnpj/
 ├── src/
 │   └── com/
